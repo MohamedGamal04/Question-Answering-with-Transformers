@@ -1,0 +1,8 @@
+transformers>=4.0.0
+datasets>=2.0.0
+torch>=1.6.0
+evaluate
+streamlit
+kaggle
+pandas
+tqdm
