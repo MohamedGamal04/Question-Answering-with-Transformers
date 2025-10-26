@@ -5,9 +5,8 @@ This repository provides a comprehensive workflow to train, evaluate, and deploy
 ## Features
 
 - End-to-end question answering pipeline using transformer architectures
-- Fine-tuning with Hugging Face Trainer API
 - Support for popular QA datasets (e.g., SQuAD)
-- Evaluation using Exact Match (EM) and F1 metrics
+- Evaluation using F1 metrics
 - Interactive inference with simple CLI interface
 - Ready-to-adapt for other transformer models and datasets
 
